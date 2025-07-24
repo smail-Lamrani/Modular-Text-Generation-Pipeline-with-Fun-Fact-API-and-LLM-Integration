@@ -1,7 +1,7 @@
 import cohere
 from ingest import ingest
 import os 
-API_KEY = "snkUdIbfqlxRptrDH8cQp4SJXkFF6J1gC8y8UPiT"
+API_KEY = "put-the_api_key_of_cohere"
 
 def call_model(prompt: str, real_model: bool = True) -> str:
     if real_model and API_KEY:

@@ -1,0 +1,40 @@
+FACT: A whale`s penis is called a dork.
+PROMPT: Explain why this fun fact is interesting to humans: A whale`s penis is called a dork.
+RESPONSE: [SIMULATED INSIGHT] Explain why this fun fact is interesting to humans: A whale`s penis is called a dork.
+
+FACT: Walt Disney holds the world record for the most Academy Awards won by one person, he has won twenty statuettes, and twelve other plaques and certificates
+PROMPT: Explain why this fun fact is interesting to humans: Walt Disney holds the world record for the most Academy Awards won by one person, he has won twenty statuettes, and twelve other plaques and certificates
+RESPONSE: [SIMULATED INSIGHT] Explain why this fun fact is interesting to humans: Walt Disney holds the world record for the most Academy Awards won by one person, he has won twenty statuettes, and twelve other plaques and certificates
+
+FACT: Every time you lick a stamp, you consume 1/10 of a calorie.
+PROMPT: Explain why this fun fact is interesting to humans: Every time you lick a stamp, you consume 1/10 of a calorie.
+RESPONSE: [SIMULATED INSIGHT] Explain why this fun fact is interesting to humans: Every time you lick a stamp, you consume 1/10 of a calorie.
+
+FACT: During a severe windstorm or rainstorm the Empire State Building sways several feet to either side.
+PROMPT: Explain why this fun fact is interesting to humans: During a severe windstorm or rainstorm the Empire State Building sways several feet to either side.
+RESPONSE: [SIMULATED INSIGHT] Explain why this fun fact is interesting to humans: During a severe windstorm or rainstorm the Empire State Building sways several feet to either side.
+
+FACT: The San Francisco Cable cars are the only mobile National Monuments.
+PROMPT: Explain why this fun fact is interesting to humans: The San Francisco Cable cars are the only mobile National Monuments.
+RESPONSE: [SIMULATED INSIGHT] Explain why this fun fact is interesting to humans: The San Francisco Cable cars are the only mobile National Monuments.
+
+FACT: The word "dexter" whose meaning refers to the right hand is typed with only the left hand.
+PROMPT: Explain why this fun fact is interesting to humans: The word "dexter" whose meaning refers to the right hand is typed with only the left hand.
+RESPONSE: [SIMULATED INSIGHT] Explain why this fun fact is interesting to humans: The word "dexter" whose meaning refers to the right hand is typed with only the left hand.
+
+FACT: Koala is Aboriginal for "no drink".
+PROMPT: Explain why this fun fact is interesting to humans: Koala is Aboriginal for "no drink".
+RESPONSE: [SIMULATED INSIGHT] Explain why this fun fact is interesting to humans: Koala is Aboriginal for "no drink".
+
+FACT: Eating the heart of a male Partridge was the cure for impotence in ancient Babylon.
+PROMPT: Explain why this fun fact is interesting to humans: Eating the heart of a male Partridge was the cure for impotence in ancient Babylon.
+RESPONSE: [SIMULATED INSIGHT] Explain why this fun fact is interesting to humans: Eating the heart of a male Partridge was the cure for impotence in ancient Babylon.
+
+FACT: Months that begin on a Sunday will always have a `Friday the 13th`.
+PROMPT: Explain why this fun fact is interesting to humans: Months that begin on a Sunday will always have a `Friday the 13th`.
+RESPONSE: [SIMULATED INSIGHT] Explain why this fun fact is interesting to humans: Months that begin on a Sunday will always have a `Friday the 13th`.
+
+FACT: Lawn darts are illegal in Canada.
+PROMPT: Explain why this fun fact is interesting to humans: Lawn darts are illegal in Canada.
+RESPONSE: [SIMULATED INSIGHT] Explain why this fun fact is interesting to humans: Lawn darts are illegal in Canada.
+
